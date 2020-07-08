@@ -1,0 +1,20 @@
+*{
+	border: 2px solid;
+}
+
+body{
+	border-color:black;
+}
+
+head{
+	border-color: blue;
+}
+
+header{
+	border-color: cyan;
+}
+
+footer{
+	border-color: brown;
+}
+
