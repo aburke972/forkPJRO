@@ -6,15 +6,58 @@ body{
 	border-color:black;
 }
 
-head{
+header{
+	height: 200px;
 	border-color: blue;
+	width: 100%;
+	float: right;
+
 }
 
-header{
-	border-color: cyan;
+#header-nav{
+	height: 20%;
+	width: 100%;
+	border: 5px solid yellow;
+	overflow: hidden;
 }
+
+#header-block{
+	border:5px solid cyan;
+	height: 80%;
+	width: 100%;
+	background: #99ccff;
+
+}
+
+li{
+	list-style: none;
+}
+
+
+
+.nav-ul-li{
+	display: inline;
+}
+
+.nav-ul-li-ul{
+	
+}
+
+/* MAIN */
+
+frame-browser-title
+
+#frame-browser{
+height: 800px;
+width: 100px;
+border: 10px solid orange;
+}
+
+/* FOOTER */
 
 footer{
 	border-color: brown;
 }
+
+
 
